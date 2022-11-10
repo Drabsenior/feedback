@@ -1,0 +1,29 @@
+{
+  "feedback": [
+    {
+      "rating": 7,
+      "text": "This is a text 1 from the backend",
+      "id": 1
+    },
+    {
+      "rating": 9,
+      "text": "This is a text 2 from the backend",
+      "id": 2
+    },
+    {
+      "text": "from gebrish to something meaningful",
+      "rating": 6,
+      "id": 4
+    },
+    {
+      "text": "update this shit just not mic drop",
+      "rating": 8,
+      "id": 5
+    },
+    {
+      "text": "lets add last one and finish up everything",
+      "rating": 7,
+      "id": 6
+    }
+  ]
+}
